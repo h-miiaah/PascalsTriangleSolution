@@ -9,5 +9,9 @@
 
     for (i = 0; i < numRows; i++) {
         result.push(Array(i + 1));
+
+        for (j = 0; j <= i; j++) {
+            
+          }
       }
   };
