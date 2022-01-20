@@ -28,6 +28,7 @@
   - Then we loop through the number of rows.
   - For each row, we create an array with the correct number of columns.
   - Then we loop through the number of columns.
+  - For each column, we check if it’s the first or last column.
   
 
   */
