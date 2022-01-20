@@ -24,6 +24,7 @@
 
   /*
 
+  - We first initialize the result array with the correct number of rows.
   
 
   */
