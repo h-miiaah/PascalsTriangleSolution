@@ -30,6 +30,6 @@
   - Then we loop through the number of columns.
   - For each column, we check if it’s the first or last column.
   - If it’s the first or last column, we set the value to 1.
-  
+  - Otherwise, we set the value to the sum of the two numbers above it.
 
   */
