@@ -29,6 +29,7 @@
   - For each row, we create an array with the correct number of columns.
   - Then we loop through the number of columns.
   - For each column, we check if it’s the first or last column.
+  - If it’s the first or last column, we set the value to 1.
   
 
   */
