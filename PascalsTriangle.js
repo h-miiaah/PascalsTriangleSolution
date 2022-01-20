@@ -8,6 +8,6 @@
     var result = [];
 
     for (i = 0; i < numRows; i++) {
-        
+        result.push(Array(i + 1));
       }
   };
