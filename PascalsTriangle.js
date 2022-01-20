@@ -11,7 +11,9 @@
         result.push(Array(i + 1));
 
         for (j = 0; j <= i; j++) {
-            
+            if (j === 0 || j === i) {
+                result[i][j] = 1;
+              }
           }
       }
   };
