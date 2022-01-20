@@ -6,4 +6,8 @@
     var i = 0;
     var j = 0;
     var result = [];
+
+    for (i = 0; i < numRows; i++) {
+        
+      }
   };
